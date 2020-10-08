@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "9513982852",
+    "firebase_url": "https://loginchat-97ccf.firebaseio.com",
+    "project_id": "loginchat-97ccf",
+    "storage_bucket": "loginchat-97ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9513982852:android:01185493d0728dce5e9bd1",
+        "android_client_info": {
+          "package_name": "com.example.loginchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9513982852-tlhdn3dg6u18nilvldkk8datgmbqu0tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8-65aRAl8-r86eO3IhfnuHL9o0cabUGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9513982852-tlhdn3dg6u18nilvldkk8datgmbqu0tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
